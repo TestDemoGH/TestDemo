@@ -1,0 +1,2 @@
+git hub is wedbased platform.
+it provides hosting for git repositories.
