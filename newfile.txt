@@ -1,0 +1,2 @@
+git commit -m "commit msg"
+git init
